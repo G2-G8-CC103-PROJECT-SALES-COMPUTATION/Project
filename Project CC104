@@ -10,9 +10,11 @@ static int transactionCount = 0; // This is for a loop wherein the transaction n
 public static void main(String[] args) { 
 
     // MGA KULANG
+
     // UNG VIEW BY PRICE, DAPAT FINAL PRICE ANG KUKUNIN WHICH IS UNG DISCOUNTED PRICE NA.
     // I-ARRAY ANG MGA VARIABLES NA PWEDE IARRAY, MAKE USE OF ARRAY AND ARRAYLIST IF APPLICABLE. HANAPIN MGA PWEDENG IARRAY
-    
+    // IF MAY MGA LINE OF CODES OR METHODS NA PWEDE PAIKLIIN, GAWIN
+
     while (true) { 
 
         // Display welcome and user input prompts 
