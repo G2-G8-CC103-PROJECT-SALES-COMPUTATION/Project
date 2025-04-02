@@ -9,8 +9,9 @@ static Scanner input = new Scanner(System.in);
 static int transactionCount = 0; // This is for a loop wherein the transaction number will increase depending on the user 
 public static void main(String[] args) { 
 
-    
-    // ANG KULANG NALANG IS UNG VIEW BY PRICE, DAPAT FINAL PRICE ANG KUKUNIN which is ung discounted na price na
+    // MGA KULANG
+    // UNG VIEW BY PRICE, DAPAT FINAL PRICE ANG KUKUNIN WHICH IS UNG DISCOUNTED PRICE NA.
+    // I-ARRAY ANG MGA VARIABLES NA PWEDE IARRAY, MAKE USE OF ARRAY AND ARRAYLIST IF APPLICABLE. HANAPIN MGA PWEDENG IARRAY
     
     while (true) { 
 
